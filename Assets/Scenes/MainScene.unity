@@ -547,7 +547,7 @@ MonoBehaviour:
   m_InteractionManager: {fileID: 0}
   m_InteractionLayers:
     m_Bits: 4294967295
-  m_Handedness: 0
+  m_Handedness: 2
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
@@ -669,7 +669,7 @@ MonoBehaviour:
   m_NearInteractionCaster: {fileID: 401839744}
   m_NearCasterSortingStrategy: 1
   m_SortNearTargetsAfterTargetFilter: 0
-  m_EnableFarCasting: 0
+  m_EnableFarCasting: 1
   m_FarInteractionCaster: {fileID: 0}
   m_FarAttachMode: 1
   m_EnableUIInteraction: 1
@@ -2241,7 +2241,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
-  m_FarAttachMode: 1
+  m_FarAttachMode: 2
 --- !u!1 &1640256283
 GameObject:
   m_ObjectHideFlags: 0
